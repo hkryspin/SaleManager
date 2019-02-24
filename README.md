@@ -1,0 +1,2 @@
+# SaleManager
+Menadżer sprzedaży.
